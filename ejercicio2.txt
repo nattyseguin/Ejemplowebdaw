@@ -1,0 +1,11 @@
+Linus torvalds
+Linus Benedict Torvalds (28 de diciembre de 1969,​ Helsinki, Finlandia) es un ingeniero de software finlandés-estadounidense,​ conocido por iniciar y mantener el desarrollo del kernel (en español, núcleo) Linux, basándose en el sistema operativo libre Minix creado por Andrew S. Tanenbaum y en algunas herramientas, varias utilidades y los compiladores desarrollados por el proyecto GNU. Actualmente es responsable de la coordinación del proyecto.
+Biografía
+Torvalds en 2014
+ 
+Torvalds pertenece a la comunidad sueco-parlante de Finlandia. Sus padres tomaron su nombre de Linus Pauling (estadounidense, Premio Nobel de Química 1954). Comenzó sus andanzas informáticas a los 11 años cuando su abuelo, un matemático y estadístico de la Universidad, compró uno de los primeros microordenadores Commodore en 1980 y le pidió ayuda para usarlo;​ de esta manera su primera línea de código fue hecha en lenguaje BASIC.
+Creación de Linux
+En Finlandia, Linus Torvalds, por entonces estudiante de Ciencias de la Computación de la Universidad de Helsinki, decidió realizar la entonces cuantiosa inversión de 3500 dólares estadounidenses para adquirir un nuevo ordenador con el microprocesador 80386 de Intel, el cual funcionaba a 33 MHz y tenía 4 MB de memoria RAM. El pago lo realizaría a plazos, pues no disponía de tal cantidad de dinero en efectivo. 
+Autoría y marca registrada
+A partir de 2006, se estima que aproximadamente el dos por ciento del kernel de Linux fue escrito por el propio Torvalds. ​ Debido a que miles de personas han contribuido al kernel de Linux, este porcentaje es una de las mayores contribuciones al mismo. Sin embargo, declaró en 2012 que su propia contribución personal ahora es principalmente un código de fusión escrito por otros, con poca programación.​ Torvalds conserva la máxima autoridad para decidir qué nuevo código se incorpora al núcleo estándar de Linux.
+De verdad, no estoy tratando de destruir a Microsoft. Ése será tan sólo un efecto colateral no intencionado. - Linus Torvalds
