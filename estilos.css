@@ -20,11 +20,11 @@ figure img{
 abbr{
   font-weight: bold;
   font-style: italic;
-  color: purple;
+  color: red;
 }
   
   figure img{
-    outline: 1px solid purple;
+    outline: 1px solid red;
     outline-offset: 4px;
     margin: 8px;
   }
@@ -32,8 +32,8 @@ abbr{
 h1, h2{
   text-transform: uppercase;
   text-shadow: 3px 3px 1px white;
-  border-bottom: 3px solid purple;
-  color: purple;
+  border-bottom: 3px solid red;
+  color: red;
   background-color: lightgrey;
 }
 
@@ -43,13 +43,13 @@ h2:nth-of-type(2){
 
 blockquote{
   font-family: "Trebuchet MS", Helvetica, sans-serif;
-  border-left: 3px solid purple;
+  border-left: 3px solid red;
   padding: 0.5em;
   background-color: lightgrey;
 }
 
 time[datetime]{
-  background-color: purple;
+  background-color: red;
   color: white;
 }
 
